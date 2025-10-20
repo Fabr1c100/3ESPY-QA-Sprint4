@@ -39,4 +39,4 @@ Este repositório documenta o plano de **testes** executado para a sprint atual,
 
 Para o acompanhamento dos resultados, foi configurado um dashboard no Azure DevOps. Este painel oferece uma visão clara do progresso, exibindo a quantidade de casos que passaram ou falharam e permitindo a rastreabilidade ao identificar o usuário responsável pela execução de cada teste.
 
-_Os testes realizados foram realizados de forma manual devido a não integração da plataforma_
+_Os testes realizados foram realizados de forma manual devido a não integração da plataforma de automação e a composição do aplicativo (React Native)_
