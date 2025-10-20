@@ -11,6 +11,8 @@
 - Guilherme Akio – RM: 98582
 - Guilherme Morais - RM: 551981
 
+**Branch:** ```Develop```
+
 ---
 
 ## 1. Visão Geral do Projeto
