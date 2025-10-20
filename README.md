@@ -22,7 +22,7 @@ Com foco no engajamento e no suporte à mudança de comportamento, Bet On You in
 ---
 
 ## 2. Acesso ao Azure DevOps do Projeto
-> [https://youtu.be/TZvBsfBxHDk](https://dev.azure.com/MR97631/Challange%20-%20Bet%20On%20You/_testManagement/all?showFilters=true)
+> https://dev.azure.com/MR97631/Challange%20-%20Bet%20On%20You/_testPlans/charts?planId=283&suiteId=284
 
 ---
 
